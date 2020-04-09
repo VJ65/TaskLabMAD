@@ -1,0 +1,2 @@
+rootProject.name='TaskLabMAD'
+include ':app'

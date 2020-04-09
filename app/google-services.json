@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "309853306320",
+    "firebase_url": "https://tasklabmad.firebaseio.com",
+    "project_id": "tasklabmad",
+    "storage_bucket": "tasklabmad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309853306320:android:d5eca5ec60328452028dd5",
+        "android_client_info": {
+          "package_name": "com.rp.tasklabmad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309853306320-rfr5sn35etfoem32adjnolkqqigg57vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBi1aRQHbZhjF0qBZFRGbQkmQBmuB6p5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309853306320-rfr5sn35etfoem32adjnolkqqigg57vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
